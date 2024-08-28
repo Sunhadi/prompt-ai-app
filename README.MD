@@ -19,7 +19,7 @@ My Prompt Ai is a mobile application that empowers users to leverage the power o
 1. Clone the repository:
 
    ```
-   git clone https://github.com/MuhammadRadifa/my-prompt-ai-app
+   git clone https://github.com/Sunhadi/prompt-ai-app.git
 
    cd cd mypromptaiapp
    ```
